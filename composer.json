@@ -17,7 +17,10 @@
 	"require": {
 		"php": ">= 5.3.7",
 		"nette/nette": "~2.2@dev",
-		"dg/adminer-custom": "~1.5"
+		"dg/adminer-custom": "~1.5",
+		"janmarek/webloader": "v2.3.0",
+		"twbs/bootstrap": "~3.3",
+		"frameworks/jquery": "v1.11.1" 
 	},
 	"require-dev": {
 		"nette/tester": "~1.0"
